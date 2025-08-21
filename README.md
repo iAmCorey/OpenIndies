@@ -71,7 +71,3 @@ Contributions are welcome!
 Open an issue, start a discussion, or submit a PR to improve OpenIndies.
 
 ⸻
-
-⸻
-
-要不要我顺便帮你写一个 GitHub repo 简介（short description），那一行简短的 summary，显示在 repo 顶部和搜索结果里？
